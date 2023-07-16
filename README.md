@@ -1,7 +1,7 @@
   👋 @AQLLdzqXXX   
   👀 是一个菜逼 什么都不会              
   🌱 GIS/RS
-  💞️ 刚入门 主攻方向还不确定 
+  💞️ 刚入门 感兴趣方向GNSS OPENCV CUDA 
   📫 （不公开）
      就先这些
      
