@@ -1,7 +1,7 @@
   👋 @AQLLdzqXXX   
   👀 是一个菜逼 什么都不会              
   🌱 GIS/RS
-  💞️ 刚入门 感兴趣方向GNSS OPENCV CUDA Atmo GDAL
+  💞️ 刚入门 感兴趣方向 OPENCV Atmo GDAL  SAR QGIS
   📫 （不公开）
      就先这些
      
